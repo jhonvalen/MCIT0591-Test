@@ -13,6 +13,7 @@ public class GitTest {
 		System.out.println("Test commit on April 11, 2019. \n collaborating with Gina");	
 
 		System.out.println("Conflict resolved. ");		
+		System.out.println("this is a test by Eric Qin"); //14/04/2019
 
 	}
 
