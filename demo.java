@@ -2,7 +2,8 @@ public class HelloWorld {
 
     public static void main(String[] args) {
         
-        System.out.println("I'm Eric and am from Sydney, Australia");
+        System.out.println("I'm Jhon and am from Connecticut, USA");
+
     }
 
 }
